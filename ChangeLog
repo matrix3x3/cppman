@@ -2,6 +2,12 @@
 cppman Changelog
 ------------------------------------------------------------------------------
 
+cppman 0.4.2 (January 18th, 2015):
+
+	Bug fixed:
+	* `cache-all` now respect user's selection of source
+	* fall back to less if vim is not founded
+
 cppman 0.4.1 (October 12th, 2014):
 
 	Bug fixed:
